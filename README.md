@@ -63,8 +63,6 @@ python3 bot.py
 | `POLZA_BASE_URL`     | да          | `https://polza.ai/api/v1`                                               |
 | `AI_MODEL`           | да          | ID модели из списка доступных в polza.ai, например `openai/gpt-4o-mini` |
 
-`.env` в репозиторий не попадает (см. `.gitignore`).
-
 ## Структура проекта
 
 ```
